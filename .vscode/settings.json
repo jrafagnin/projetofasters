@@ -1,0 +1,10 @@
+{
+    "c-cpp-compile-run.cpp-compiler": "C:\\MinGW\\bin\\g++.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
